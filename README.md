@@ -19,3 +19,5 @@
 <H3>Visitor Count</H3>
 
 ![Visitor Count](https://profile-counter.glitch.me/rahulmeganath/count.svg)
+
+  ![Snake animation](https://github.com/rahulmeganath/rahulmeganath/blob/output/github-contribution-grid-snake.svg)
